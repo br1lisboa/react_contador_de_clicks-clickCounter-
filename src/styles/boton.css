@@ -1,7 +1,8 @@
 button {
   width: 250px;
   height: 80px;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
   font-family:'Roboto', sans-serif;
   font-weight: bold;
   color: whitesmoke;
