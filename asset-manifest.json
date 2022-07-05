@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_contador_de_clicks/static/css/main.9ab5a092.css",
+    "main.js": "/react_contador_de_clicks/static/js/main.8dfc2a1e.js",
+    "static/media/logo-ffc.png": "/react_contador_de_clicks/static/media/logo-ffc.ae508b498588e1ac8f4a.png",
+    "index.html": "/react_contador_de_clicks/index.html",
+    "main.9ab5a092.css.map": "/react_contador_de_clicks/static/css/main.9ab5a092.css.map",
+    "main.8dfc2a1e.js.map": "/react_contador_de_clicks/static/js/main.8dfc2a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab5a092.css",
+    "static/js/main.8dfc2a1e.js"
+  ]
+}
