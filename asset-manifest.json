@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_contador_de_clicks/static/css/main.9ab5a092.css",
-    "main.js": "/react_contador_de_clicks/static/js/main.8dfc2a1e.js",
-    "static/media/logo-ffc.png": "/react_contador_de_clicks/static/media/logo-ffc.ae508b498588e1ac8f4a.png",
-    "index.html": "/react_contador_de_clicks/index.html",
-    "main.9ab5a092.css.map": "/react_contador_de_clicks/static/css/main.9ab5a092.css.map",
-    "main.8dfc2a1e.js.map": "/react_contador_de_clicks/static/js/main.8dfc2a1e.js.map"
+    "main.css": "/react_contador_de_clicks-clickCounter-/static/css/main.9ab5a092.css",
+    "main.js": "/react_contador_de_clicks-clickCounter-/static/js/main.3709fc07.js",
+    "static/media/logo-ffc.png": "/react_contador_de_clicks-clickCounter-/static/media/logo-ffc.ae508b498588e1ac8f4a.png",
+    "index.html": "/react_contador_de_clicks-clickCounter-/index.html",
+    "main.9ab5a092.css.map": "/react_contador_de_clicks-clickCounter-/static/css/main.9ab5a092.css.map",
+    "main.3709fc07.js.map": "/react_contador_de_clicks-clickCounter-/static/js/main.3709fc07.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab5a092.css",
-    "static/js/main.8dfc2a1e.js"
+    "static/js/main.3709fc07.js"
   ]
 }
